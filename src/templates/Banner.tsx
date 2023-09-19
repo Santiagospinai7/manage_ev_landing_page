@@ -10,7 +10,7 @@ const Banner = () => (
       title="Ingresa a la App y comienza a disfrutar de los beneficios."
       subtitle="Empieza gratis."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="#">
           <Button>Get Started</Button>
         </Link>
       }
